@@ -1,3 +1,14 @@
-# Description
+The "ARWU University Rankings (2017-2023)" dataset offers a comprehensive overview of global university rankings as per the Academic Ranking of World Universities (ARWU) from 2017 to 2023. It is organized into various columns:
 
-The GitHub repository for this data set, titled "ARWU University Ranking 2023," would include a comprehensive dataset outlining global university rankings according to the Academic Ranking of World Universities (ARWU) for the year 2023. The data encompasses a range of categories, including 'Natural Sciences' and sub-categories like 'Mathematics'. Each entry lists details such as the ranking year, category, sub-category, world rank, specific rank within the category, university name, country, score, and the page number of the ranking. The dataset also contains URLs linking to the original ranking pages. This repository serves as a valuable resource for researchers, academics, and students interested in the global standing and comparative analysis of universities across various disciplines. ​​
+    Year: The year of the ranking, ranging from 2017 to 2023.
+    Category: Broad academic categories like 'Natural Sciences'.
+    Sub-Category: More specific fields within the main category, for example, 'Mathematics'.
+    Link: URLs pointing to the source or specific page of the ARWU ranking.
+    World Rank: The global ranking position of the university.
+    Rank: Specific rank within the sub-category.
+    University: The name of the university.
+    Country: The country where the university is located.
+    Score: A numerical score assigned to the university based on the ranking criteria.
+    Page: The page number of the ranking in the original source.
+
+This dataset is a valuable resource for analyzing the performance and standings of universities worldwide across different academic disciplines over these years.
