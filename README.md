@@ -1,6 +1,6 @@
-# ARWU dataset
-
 > cite as: Marhl, M., Markovič, R., Grubelnik, V., & Perc, M. (2024). The changing world dynamics of research performance. Scientometrics. https://doi.org/10.1007/s11192-024-05199-6
+
+# ARWU dataset
 
 source: [link](https://www.shanghairanking.com/rankings/gras/2023)
 
