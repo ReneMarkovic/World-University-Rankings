@@ -1,4 +1,7 @@
 # ARWU dataset
+
+> cite as: Marhl, M., Markovič, R., Grubelnik, V., & Perc, M. (2024). The changing world dynamics of research performance. Scientometrics. https://doi.org/10.1007/s11192-024-05199-6
+
 source: [link](https://www.shanghairanking.com/rankings/gras/2023)
 
 The "ARWU University Rankings (2017-2023)" dataset offers a comprehensive overview of global university rankings as per the Academic Ranking of World Universities (ARWU) from 2017 to 2023. It is organized into various columns:
